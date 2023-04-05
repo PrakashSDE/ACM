@@ -1,2 +1,0 @@
- Create a "repository" (project) with a gitHub;
- Create a "
